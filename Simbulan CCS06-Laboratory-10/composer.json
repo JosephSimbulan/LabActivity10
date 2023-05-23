@@ -1,0 +1,17 @@
+{
+    "name": "JosephSimbulan/CCS06-Lab10",
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Joseph Derick B. Simbulan",
+            "email": "simbulan.josephderick@auf.edu.ph"
+        }
+    ]
+}
